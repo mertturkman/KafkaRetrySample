@@ -1,0 +1,9 @@
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/bin/Debug/netstandard2.1/KafkaSample.Core.deps.json
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/bin/Debug/netstandard2.1/KafkaSample.Core.dll
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/bin/Debug/netstandard2.1/KafkaSample.Core.pdb
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.csprojAssemblyReference.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.AssemblyInfoInputs.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.AssemblyInfo.cs
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.csproj.CoreCompileInputs.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.dll
+/Users/mturkman/RiderProjects/KafkaSample/KafkaSample.Core/obj/Debug/netstandard2.1/KafkaSample.Core.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = KafkaRetrySample.Shovel
+build_property.ProjectDir = /Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.Shovel/

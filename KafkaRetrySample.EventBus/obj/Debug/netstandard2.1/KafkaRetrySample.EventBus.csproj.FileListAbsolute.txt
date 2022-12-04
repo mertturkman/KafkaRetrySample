@@ -1,0 +1,10 @@
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/bin/Debug/netstandard2.1/KafkaRetrySample.EventBus.deps.json
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/bin/Debug/netstandard2.1/KafkaRetrySample.EventBus.dll
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/bin/Debug/netstandard2.1/KafkaRetrySample.EventBus.pdb
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.csproj.AssemblyReference.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.AssemblyInfoInputs.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.AssemblyInfo.cs
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.csproj.CoreCompileInputs.cache
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.dll
+/Users/mturkman/RiderProjects/KafkaSample/KafkaRetrySample.EventBus/obj/Debug/netstandard2.1/KafkaRetrySample.EventBus.pdb
